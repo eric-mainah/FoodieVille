@@ -1,0 +1,44 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">FoodieVille</string>
+
+    <string-array name="table_number">
+        <item>one</item>
+        <item>two</item>
+        <item>three</item>
+        <item>four</item>
+        <item>five</item>
+        <item>six and more</item>
+    </string-array>
+
+    <string-array name="sittingarea">
+        <item>Indoor</item>
+        <item>Outdoor</item>
+    </string-array>
+
+    <string-array name="drinks">
+        <item>Water</item>
+        <item>Soda</item>
+        <item>Milkshake</item>
+    </string-array>
+
+    <string-array name="fastfood">
+        <item>Chips</item>
+        <item>Bhajia</item>
+        <item>Burger</item>
+        <item>Pizza</item>
+    </string-array>
+
+    <string-array name="drinksPrices">
+        <item>50</item>
+        <item>60</item>
+        <item>100</item>
+    </string-array>
+
+    <string-array name="foodPrices">
+        <item>100</item>
+        <item>120</item>
+        <item>200</item>
+        <item>500</item>
+    </string-array>
+
+</resources>
